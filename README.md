@@ -15,7 +15,8 @@ I'm a **game developer** focused on storytelling, emotional design, and creating
 ### 🛠️ Tech Stack
 - C++
 - JSON (serialization)
-- Raylib
+- raylib
+- EnTT
 - Git & GitHub
 - CMake
 - Krita  
