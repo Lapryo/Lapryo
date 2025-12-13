@@ -3,7 +3,8 @@
 I'm a **game developer** focused on storytelling, emotional design, and creating worlds that feel alive. I'm currently building my first major project, **Shinya: The Lunar Angel**, a narrative-driven dark fantasy action RPG.
 
 ### 🌱 Currently Learning
-- C++ & game architecture  
+- C++ & game architecture
+- Full-stack Web Development (HTML, CSS, JavaScript)
 - Digital art (anime/grunge-inspired)  
 - Music & sound design  
 - Writing maintainable, scalable systems
