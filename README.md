@@ -1,6 +1,6 @@
 # Hey, I'm Sam 👋
 
-I'm a **game developer** focused on storytelling, emotional design, and creating worlds that feel alive. I'm currently building my first major project, **Shinya: The Lunar Angel**, a narrative-driven dark fantasy action RPG.
+I'm a **game developer** focused on storytelling, unique gameplay, and creating worlds that feel alive. I'm currently building my first major project, **Shinya: The Lunar Angel**, a narrative-driven dark fantasy action RPG.
 
 ### 🌱 Currently Learning
 - C++ & game architecture
